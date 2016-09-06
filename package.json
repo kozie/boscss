@@ -1,6 +1,6 @@
 {
   "name": "boscss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "BosCSS - Just to transform \"Nee\" into \"None\"",
   "main": "boscss",
   "scripts": {
